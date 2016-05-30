@@ -1,5 +1,7 @@
-package abadboy.com.crawler.image;
+package abadboy.com.crawler.image.dou;
 
+import abadboy.com.crawler.image.ImageCrawlController;
+import abadboy.com.crawler.image.ImageCrawler;
 import edu.uci.ics.crawler4j.crawler.CrawlConfig;
 import edu.uci.ics.crawler4j.crawler.CrawlController;
 import edu.uci.ics.crawler4j.fetcher.PageFetcher;
